@@ -1,3 +1,6 @@
+<script>
+</script>
+
 <header>
 	<nav class="navbar">
 		<ul class="nav-links">
@@ -22,8 +25,8 @@
 				#f5f5f5,
 				#e9e9e9
 		);
+		min-height: 100vh;
 
-		min-height: 300vh;
 
 		overflow-x: hidden;
 	}
